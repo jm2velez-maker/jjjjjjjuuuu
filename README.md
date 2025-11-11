@@ -1,4 +1,4 @@
-```zsh
+```bash
 > whoami
 prongsd@devmachine
 ────────────────────────────
