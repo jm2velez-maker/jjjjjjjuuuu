@@ -1,6 +1,6 @@
 ```bash
 > whoami
-prongsd@devmachine
+nguyen@dev
 ────────────────────────────
 Full-Stack Developer | Blockchain Enthusiast
 Building digital systems with precision and intent
