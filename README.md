@@ -25,4 +25,4 @@ Terminal: iTerm2
 > echo "stay sharp. stay curious."
 ```
 
-<img width="0" height="0" class="mailtrack-img" alt="" style="display:flex" src="https://mailtrack.io/trace/mail/4996fe03acacb815a3f82a53c526850f60be0f23.png?u=13360296">
+<img width="0" height="0" class="mailtrack-img" alt="" style="display:flex" src="https://mailtrack.io/trace/mail/dfa0856b8bb652defd28e9e6c00e4fe212531b3e.png?u=13360296">
